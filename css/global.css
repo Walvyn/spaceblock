@@ -1,0 +1,16 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+#gameContainer {
+	border: 30px solid #444444;
+	border-radius: 30px;
+	
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+	width: 900px;
+	height: 480px;
+}
